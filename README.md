@@ -32,8 +32,8 @@ The project defines a basic blockchain structure (`Block`) and provides function
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/simple-blockchain-go.git
-cd simple-blockchain-go
+git clone https://github.com/AliNaveed01/BlockChain-using-GO.git
+cd BlockChain-using-GO
 ```
 
 ## Usage
